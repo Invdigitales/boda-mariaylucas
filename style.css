@@ -289,7 +289,7 @@ margin-top: -17%;
    
 }
 .primary1 {
-margin-left: 37%;
+margin-left: 36%;
   min-width: 120px;
   height: 40px;
   color: #fff;
@@ -332,12 +332,11 @@ margin-left: 37%;
   
 }
 
-.primary3 {
-  text-decoration: none;
-  text-align: center;
-  min-width: 130px;
+.primary4{
+
+   min-width: 120px;
   height: 40px;
-  color: #ffffff;
+  color: #fff;
   padding: 7px 5px;
   font-weight: bold;
   cursor: pointer;
@@ -348,8 +347,32 @@ margin-left: 37%;
   overflow: hidden;
   border-radius: 5px;
   border: none;
-   background-color: #a48b70;
+  background-color: #a48b70;
   margin-top: 5%;
+  margin-left: 3%;
+  text-decoration: none;
+  font-family: 'Julius Sans One', sans-serif;
+  background-size: 55%;
+  
+}
+.primary3 {
+  min-width: 120px;
+  height: 40px;
+  color: #000000;
+  padding: 7px 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  overflow: hidden;
+  border-radius: 5px;
+  border: none;
+  background-color: #ffffff;
+  margin-top: 5%;
+  margin-left: 3%;
+  text-decoration: none;
   font-family: 'Julius Sans One', sans-serif;
   background-size: 55%;
 }
