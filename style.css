@@ -336,7 +336,7 @@ margin-left: 36%;
 
    min-width: 120px;
   height: 40px;
-  color: #fff;
+  color: #000000;
   padding: 7px 5px;
   font-weight: bold;
   cursor: pointer;
@@ -347,7 +347,7 @@ margin-left: 36%;
   overflow: hidden;
   border-radius: 5px;
   border: none;
-  background-color: #a48b70;
+  background-color: #ffffff;
   margin-top: 5%;
   margin-left: 3%;
   text-decoration: none;
