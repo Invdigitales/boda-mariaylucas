@@ -376,6 +376,28 @@ margin-left: 36%;
   font-family: 'Julius Sans One', sans-serif;
   background-size: 55%;
 }
+.primary5 {
+   min-width: 120px;
+  height: 40px;
+  color: #fff;
+  padding: 7px 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  overflow: hidden;
+  border-radius: 5px;
+  border: none;
+  background-color: #a48b70;
+  margin-top: 5%;
+  margin-left: 1%;
+  text-decoration: none;
+  font-family: 'Julius Sans One', sans-serif;
+  background-size: 55%;
+  
+}
 
 .btn-playlist{
   min-width: 120px;
